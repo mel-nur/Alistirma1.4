@@ -72,7 +72,3 @@ http://localhost:8080/
 - HTML/CSS/JS (statik içerik)
 
 ---
-
-## 📝 Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır.
